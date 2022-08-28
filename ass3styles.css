@@ -1,0 +1,360 @@
+.header {
+
+    background-image: url("drew-coffman-1872.jpg");
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+
+}
+
+.header img {
+    width: 12%;
+    margin-top: 2%;
+    margin-left: 5%;
+    ;
+}
+
+.home {
+
+    align-items: center;
+    text-align: center;
+    font-family: "Alegreya Sans";
+
+    margin-top: 14%;
+    margin-bottom: 28%;
+
+}
+
+
+
+
+.home h1,
+.home p {
+    color: aliceblue;
+}
+
+.home p {
+    font-size: 25px;
+}
+
+.home h1 {
+    font-size: 50px;
+
+}
+
+.home button {
+    background-color: tan;
+    border-radius: 5px;
+    font-size: 16px;
+    size: 40px;
+    padding: 15px 32px;
+    color:aliceblue;
+    border-color: transparent;
+}
+
+#trancparent-button {
+    background-color: transparent;
+    border-color: white;
+color: black;
+margin-left: 1.5%;
+}
+#trancparent-button:hover{
+    background-color: azure;
+
+
+}
+
+
+.bakery {
+
+    margin-top: 12.5%;
+    float: left;
+}
+
+
+.items {
+
+    width: 50%;
+
+}
+
+.items img {
+    width: 75%;
+    float: left;
+}
+
+.unique {
+    padding-top: 5%;
+    font-size: 30px;
+    padding-left: 50%;
+    color: rgb(43, 43, 43);
+}
+
+.unique-para {
+    padding-left: 50%;
+    padding-top: 2%;
+    padding-right: 7%;
+    line-height: 200%;
+    font-size: 18.5px;
+    color: rgb(127, 130, 130);
+}
+
+.unique-ul {
+
+    line-height: 200%;
+    font-size: 18.5px;
+    color: rgb(127, 130, 130);
+    padding-left: 50%;
+    list-style: none;
+}
+
+.li1 {
+    background: url('Capture.PNG') no-repeat no-repeat;
+
+
+}
+
+.li2 {
+    background: url('Capture2.PNG') no-repeat no-repeat;
+
+}
+
+.li3 {
+    background: url('Capture3.PNG') no-repeat no-repeat;
+
+
+}
+
+.li4 {
+    background: url('Capture4.PNG') no-repeat no-repeat;
+
+}
+
+.unique-ul p {
+    padding-left: 10%;
+
+}
+
+.location {
+
+    margin-top: 4.5%;
+    background-color: ghostwhite;
+    float: left;
+}
+
+.location-info {
+    width: 50%;
+    float: left
+}
+
+.location-info img {
+    width: 70%;
+
+
+}
+
+.location-unique {
+    padding-top: 12%;
+    font-size: 30px;
+    padding-left: 16%;
+    color: rgb(43, 43, 43);
+}
+
+.location-para {
+    padding-left: 120px;
+    padding-top: 2%;
+    padding-right: 7%;
+    line-height: 200%;
+    font-size: 16.5px;
+    color: rgb(127, 130, 130)
+}
+
+.our-baking {
+    text-align: center;
+    margin-right: 5%;
+}
+
+.title {
+    padding-top: 12%;
+    font-size: 30px;
+    color: rgb(43, 43, 43);
+}
+
+.subtitle {
+
+
+    font-size: 16.5px;
+    color: rgb(127, 130, 130)
+}
+
+.innertitle {
+    padding-left: 25%;
+    font-size: 25px;
+    color: rgb(43, 43, 43);
+}
+
+.innerpara {
+    padding-left: 120px;
+
+    line-height: 200%;
+    font-size: 15.5px;
+    color: rgb(127, 130, 130)
+}
+
+.ourbaking-items {
+
+    width: 33.3%;
+    float: right;
+
+}
+
+.ourbaking-items img {
+    width: 75%;
+
+}
+
+
+.map-ul {
+    padding-left: 20%;
+    line-height: 240%;
+    font-size: 16.5px;
+    color: rgb(127, 130, 130);
+    list-style: none;
+
+}
+
+.map-ul p {
+    padding-left: 12%;
+}
+
+.map-li1 {
+    background: url('Capture5.PNG') no-repeat no-repeat;
+    padding-right: 15px;
+
+}
+
+.map-li2 {
+    background: url('Capture6.PNG') no-repeat no-repeat;
+    padding-left: 5px;
+}
+
+.map-li3 {
+    background: url('Capture7.PNG') no-repeat no-repeat;
+    padding-right: 15px;
+
+}
+
+.map-li4 {
+    background: url('Capture8.PNG') no-repeat no-repeat;
+    padding-left: 5px;
+}
+
+.website-info {
+    margin-top: 4%;
+    background-color: #403d38;
+    float: left;
+    width: 100%;
+}
+
+.website-info-elemnt {
+    width: 22%;
+    float: left;
+    color: rgb(249, 249, 249);
+
+}
+
+.special {
+    padding-left: 5%;
+
+}
+
+.aboutus-para {
+
+    padding-top: 1%;
+    padding-right: 18%;
+    line-height: 150%;
+    font-size: 16px;
+    color: rgb(127, 130, 130)
+}
+
+.special-ul {
+    margin: 0;
+    padding: 0;
+    line-height: 200%;
+    font-size: 16px;
+    color: rgb(127, 130, 130);
+    list-style-image: url("Capture10.PNG");
+}
+
+
+.specialui-top {
+    border: solid;
+    border-bottom: 1;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: rgb(127, 130, 130);
+    border-spacing: 0.25px;
+    text-align: left;
+    display: inline-block;
+    border-width: thin;
+}
+
+.footer-map-list {
+    list-style: none;
+
+}
+
+.footer-map p {
+    marrgin-top: 12%;
+    margin-left: 9%;
+}
+
+.footer-map {
+    background-image: url("contact-details-map.png");
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+
+}
+
+.footer-map-li1 {
+    background: url('Capture11.PNG') no-repeat no-repeat;
+
+
+}
+
+.footer-map-li2 {
+    background: url('Capture12.PNG') no-repeat no-repeat;
+
+}
+
+.footer-map-li3 {
+    background: url('Capture13.PNG') no-repeat no-repeat;
+
+
+}
+
+.footer-map-li4 {
+    background: url('Capture14.PNG') no-repeat no-repeat;
+
+}
+
+.website-footer {
+    float: left;
+    text-align: center;
+    background-color: #1b1b1b;
+    width: 100%;
+}
+
+.website-footer img {
+    width: 20%;
+}
+
+clrfix {
+
+    clear: both;
+
+}
